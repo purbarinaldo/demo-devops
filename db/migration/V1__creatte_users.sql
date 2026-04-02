@@ -2,5 +2,6 @@ DROP TABLE IF EXISTS users;
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
     name VARCHAR(50),
-    address VARCHAR(100)
+    address VARCHAR(100),
+    email VARCHAR(50)
 );
