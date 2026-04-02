@@ -1,0 +1,6 @@
+projectKey=demo_devops
+serverUrl=http://192.168.23.51:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://192.168.23.51:9000/dashboard?id=demo_devops
+ceTaskId=6bd534b4-e41e-483a-8b8d-120570d58c5a
+ceTaskUrl=http://192.168.23.51:9000/api/ce/task?id=6bd534b4-e41e-483a-8b8d-120570d58c5a
